@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LegacyITC/static/css/main.616fb678.chunk.css",
-    "main.js": "/LegacyITC/static/js/main.81c49630.chunk.js",
-    "main.js.map": "/LegacyITC/static/js/main.81c49630.chunk.js.map",
+    "main.js": "/LegacyITC/static/js/main.d0b5bba6.chunk.js",
+    "main.js.map": "/LegacyITC/static/js/main.d0b5bba6.chunk.js.map",
     "runtime-main.js": "/LegacyITC/static/js/runtime-main.70e30557.js",
     "runtime-main.js.map": "/LegacyITC/static/js/runtime-main.70e30557.js.map",
     "static/js/2.26f17875.chunk.js": "/LegacyITC/static/js/2.26f17875.chunk.js",
@@ -16,13 +16,13 @@
     "static/media/img4.366ee373.svg": "/LegacyITC/static/media/img4.366ee373.svg",
     "static/media/img5.5c86465d.svg": "/LegacyITC/static/media/img5.5c86465d.svg",
     "static/media/img6.32586fe2.svg": "/LegacyITC/static/media/img6.32586fe2.svg",
-    "static/media/logo2.8420800c.png": "/LegacyITC/static/media/logo2.8420800c.png",
+    "static/media/logoblanco.f397c937.png": "/LegacyITC/static/media/logoblanco.f397c937.png",
     "static/media/video.8e6473cf.mp4": "/LegacyITC/static/media/video.8e6473cf.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.70e30557.js",
     "static/js/2.26f17875.chunk.js",
     "static/css/main.616fb678.chunk.css",
-    "static/js/main.81c49630.chunk.js"
+    "static/js/main.d0b5bba6.chunk.js"
   ]
 }
