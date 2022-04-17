@@ -2,7 +2,7 @@ import React, {useState, useEffect}from 'react'
 import {FaBars} from 'react-icons/fa'
 import {IconContext} from 'react-icons/lib'
 import {animateScroll as scroll} from 'react-scroll'
-import logo from '../../images/logo2.png'
+import logo from '../../images/logoblanco.png'
 import { 
         MobileIcon, 
         Nav, 

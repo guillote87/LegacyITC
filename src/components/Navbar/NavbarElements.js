@@ -20,7 +20,7 @@ export const Nav = styled.nav`
   }
 `
 export const Logo = styled.img`
-height :60px;
+height :90px;
 
 `
 
@@ -41,7 +41,6 @@ export const NavLogo = styled(LinkR)`
   font-size: 1rem;
   display: flex;
   align-items: center;
-  margin-left: 24px;
   font-weight: bold;
   text-decoration: none;
 `

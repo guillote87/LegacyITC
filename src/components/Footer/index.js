@@ -1,5 +1,6 @@
 import React from 'react'
-import {FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin} from 'react-icons/fa'
+import logo from '../../images/logoblanco.png'
+import {FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin,FaEnvelope} from 'react-icons/fa'
 import {animateScroll as scroll} from 'react-scroll'
 import { 
         FooterContainer, 
@@ -14,7 +15,8 @@ import {
         SocialLogo, 
         SocialMedia, 
         SocialMediaWrap, 
-        WebsiteRights 
+        WebsiteRights,
+        Logo,
       } from './FooterElements'
 
 const Footer = () => {
@@ -27,22 +29,18 @@ const Footer = () => {
     <FooterContainer>
       <FooterWrap>
         <FooterLinksContainer>
-<FooterLinksWrapper>
-            <FooterLinkItems>
-                <FooterLinkTitle> <FooterLink to="nosotros">Nosotros</FooterLink></FooterLinkTitle>
-                <FooterLinkTitle> <FooterLink to="servicios">Servicios</FooterLink></FooterLinkTitle>
-                <FooterLinkTitle> <FooterLink to="staffing">Staffing</FooterLink></FooterLinkTitle>
-                <FooterLinkTitle> <FooterLink to="contacto">Contacto</FooterLink></FooterLinkTitle>
-            </FooterLinkItems>
-          </FooterLinksWrapper>
-
+                <FooterLinkItems to="nosotros">Nosotros</FooterLinkItems>
+                <FooterLinkItems to="services">Servicios</FooterLinkItems>
+                <FooterLinkItems to="staffing">Staffing</FooterLinkItems>
+                <FooterLinkItems to="contacto">Contacto</FooterLinkItems>
         </FooterLinksContainer>
+      
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/' onClick={toggleHome}>
-              Legacy ITC
+            <SocialLogo  to='/' onClick={toggleHome}>
+              <Logo src={logo}/>
             </SocialLogo>
-            <WebsiteRights>LegacyITC © 2021
+            <WebsiteRights>Legacy ITC © 2022
             Todos Los derechos reservados
             </WebsiteRights>
             <SocialIcons>
