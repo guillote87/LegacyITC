@@ -1,14 +1,11 @@
 import React from 'react'
 import logo from '../../images/logoblanco.png'
-import {FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin,FaEnvelope} from 'react-icons/fa'
+import {FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin} from 'react-icons/fa'
 import {animateScroll as scroll} from 'react-scroll'
 import { 
         FooterContainer, 
-        FooterLink, 
         FooterLinkItems, 
         FooterLinksContainer, 
-        FooterLinksWrapper, 
-        FooterLinkTitle, 
         FooterWrap, 
         SocialIconLink, 
         SocialIcons, 
@@ -31,7 +28,6 @@ const Footer = () => {
         <FooterLinksContainer>
                 <FooterLinkItems to="nosotros">Nosotros</FooterLinkItems>
                 <FooterLinkItems to="services">Servicios</FooterLinkItems>
-                <FooterLinkItems to="staffing">Staffing</FooterLinkItems>
                 <FooterLinkItems to="contacto">Contacto</FooterLinkItems>
         </FooterLinksContainer>
       

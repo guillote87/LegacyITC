@@ -18,26 +18,8 @@ export const homeObjOne = {
   primary: true,
   darkText: false,
 }
-
 export const homeObjTwo = {
-  id: 'staffing',
-  lightBg: true,
-  lightText: false,
-  lightTextDesc: false,
-  topLine: 'Staffing',
-  headLine: 'Staff augmentation',
-  description: 'Sabemos lo complicado que resulta buscar al perfil ideal en cortos plazos para los proyectos.  Por eso nosotros nos encargamos de alivianar el stress que eso genera entregando el recurso ideal en el tiempo justo',
-  buttonLabel: 'Mas Info',
-  imgStart: false,
-  img: img2,
-  alt: 'Car',
-  dark: false,
-  primary: true,
-  darkText: true,
-}
-
-export const homeObjThree = {
-  id: 'contacto',
+  id: 'remoto',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
@@ -52,3 +34,22 @@ export const homeObjThree = {
   primary: true,
   darkText: true,
 }
+
+export const homeObjThree = {
+  id: 'staffing',
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: 'Confian en nosotros',
+  headLine: 'Staff augmentation',
+  description: 'Sabemos lo complicado que resulta buscar al perfil ideal en cortos plazos para los proyectos.  Por eso nosotros nos encargamos de alivianar el stress que eso genera entregando el recurso ideal en el tiempo justo',
+  buttonLabel: 'Mas Info',
+  imgStart: false,
+  img: img2,
+  alt: 'Car',
+  dark: false,
+  primary: true,
+  darkText: true,
+}
+
+

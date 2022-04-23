@@ -56,7 +56,7 @@ const Navbar = ({toggle}) => {
                 >Nosotros
               </NavLinks>
             </NavItem>
-            
+        {/*    
             <NavItem>
               <NavLinks 
                 to="staffing"
@@ -67,7 +67,7 @@ const Navbar = ({toggle}) => {
                 offset={-80} 
                 >Staffing</NavLinks>
             </NavItem>
-
+        */}
             <NavItem>
               <NavLinks 
                 to="services"

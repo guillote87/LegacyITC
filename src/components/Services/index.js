@@ -22,7 +22,7 @@ const Services = () => {
           <ServicesIcon src={Icon1}/>
           <servicesH2><strong>Plataformas</strong></servicesH2>
           <servicesP>SAP R/3 </servicesP>
-          <servicesP>SAP R/4 HANA </servicesP>
+          <servicesP>SAP S/4 HANA </servicesP>
           <servicesP>SAP FIORI </servicesP>
         </ServicesCard>
 

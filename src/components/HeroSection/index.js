@@ -9,18 +9,21 @@ function HeroSection() {
   return (
     <HeroContainer id='home'>
       <HeroBg>
-        <VideBg autoPlay loop muted src={Video} type='video/mp4'/>
+        <VideBg autoPlay loop muted src={Video} type='video/mp4' />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Consultoria SAP</HeroH1>
-        <HeroP>
-            Legacy ITC es una firma de consultoría focalizada en soluciones SAP.<br/>
-           Desde nuestros inicios nos hemos dedicado a asegurar que nuestros clientes reciban calidad en cada trabajo, entregando los proyectos en tiempo y presupuesto, ayudandolos a encontrar los mejores talentos del mercado y maximixando su inversion en tecnologia.
+               <HeroP>
+          En <strong>Legacy ITC </strong>somos un equipo de desarrolladores enfocados en la creación de
+          soluciones tecnológicas que permitan mejorar los procesos del negocio.<br/>
+          Siendo una firma boutique, hemos logrado siempre adaptarnos a las necesidades de
+          nuestros clientes brindándoles un nivel de atención de calidad, rapido y personalizado.<br/>
+          El nivel de compromiso, atención y dedicación que proveemos a nuestros clientes nos
+          distingue en cada emprendimiento.
         </HeroP>
       </HeroContent>
     </HeroContainer>
-      
-    
+
+
   )
 }
 
