@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/LegacyITC/static/css/main.a3c46f46.chunk.css",
-    "main.js": "/LegacyITC/static/js/main.04616763.chunk.js",
-    "main.js.map": "/LegacyITC/static/js/main.04616763.chunk.js.map",
+    "main.js": "/LegacyITC/static/js/main.0ab55458.chunk.js",
+    "main.js.map": "/LegacyITC/static/js/main.0ab55458.chunk.js.map",
     "runtime-main.js": "/LegacyITC/static/js/runtime-main.70e30557.js",
     "runtime-main.js.map": "/LegacyITC/static/js/runtime-main.70e30557.js.map",
-    "static/js/2.8ca95798.chunk.js": "/LegacyITC/static/js/2.8ca95798.chunk.js",
-    "static/js/2.8ca95798.chunk.js.map": "/LegacyITC/static/js/2.8ca95798.chunk.js.map",
+    "static/js/2.fa3b15d6.chunk.js": "/LegacyITC/static/js/2.fa3b15d6.chunk.js",
+    "static/js/2.fa3b15d6.chunk.js.map": "/LegacyITC/static/js/2.fa3b15d6.chunk.js.map",
     "index.html": "/LegacyITC/index.html",
     "static/css/main.a3c46f46.chunk.css.map": "/LegacyITC/static/css/main.a3c46f46.chunk.css.map",
-    "static/js/2.8ca95798.chunk.js.LICENSE.txt": "/LegacyITC/static/js/2.8ca95798.chunk.js.LICENSE.txt",
+    "static/js/2.fa3b15d6.chunk.js.LICENSE.txt": "/LegacyITC/static/js/2.fa3b15d6.chunk.js.LICENSE.txt",
     "static/media/Bumeran.ab178318.png": "/LegacyITC/static/media/Bumeran.ab178318.png",
     "static/media/demotores.87fe67fe.jpg": "/LegacyITC/static/media/demotores.87fe67fe.jpg",
     "static/media/img1.612b837d.svg": "/LegacyITC/static/media/img1.612b837d.svg",
+    "static/media/img10.15a0ac0a.svg": "/LegacyITC/static/media/img10.15a0ac0a.svg",
     "static/media/img2.3a41858f.svg": "/LegacyITC/static/media/img2.3a41858f.svg",
     "static/media/img3.42f374f0.svg": "/LegacyITC/static/media/img3.42f374f0.svg",
-    "static/media/img4.366ee373.svg": "/LegacyITC/static/media/img4.366ee373.svg",
-    "static/media/img5.5c86465d.svg": "/LegacyITC/static/media/img5.5c86465d.svg",
-    "static/media/img6.32586fe2.svg": "/LegacyITC/static/media/img6.32586fe2.svg",
+    "static/media/img8.0b1b55b0.svg": "/LegacyITC/static/media/img8.0b1b55b0.svg",
+    "static/media/img9.c3e8fb5e.svg": "/LegacyITC/static/media/img9.c3e8fb5e.svg",
     "static/media/logoblanco.f397c937.png": "/LegacyITC/static/media/logoblanco.f397c937.png",
     "static/media/navent.73f62548.jpg": "/LegacyITC/static/media/navent.73f62548.jpg",
+    "static/media/sap-logo-svg.447c7ca3.svg": "/LegacyITC/static/media/sap-logo-svg.447c7ca3.svg",
     "static/media/video.8e6473cf.mp4": "/LegacyITC/static/media/video.8e6473cf.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.70e30557.js",
-    "static/js/2.8ca95798.chunk.js",
+    "static/js/2.fa3b15d6.chunk.js",
     "static/css/main.a3c46f46.chunk.css",
-    "static/js/main.04616763.chunk.js"
+    "static/js/main.0ab55458.chunk.js"
   ]
 }
