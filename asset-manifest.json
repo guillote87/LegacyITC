@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LegacyITC/static/css/main.a3c46f46.chunk.css",
-    "main.js": "/LegacyITC/static/js/main.0ab55458.chunk.js",
-    "main.js.map": "/LegacyITC/static/js/main.0ab55458.chunk.js.map",
+    "main.js": "/LegacyITC/static/js/main.cefdeb74.chunk.js",
+    "main.js.map": "/LegacyITC/static/js/main.cefdeb74.chunk.js.map",
     "runtime-main.js": "/LegacyITC/static/js/runtime-main.70e30557.js",
     "runtime-main.js.map": "/LegacyITC/static/js/runtime-main.70e30557.js.map",
     "static/js/2.fa3b15d6.chunk.js": "/LegacyITC/static/js/2.fa3b15d6.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.70e30557.js",
     "static/js/2.fa3b15d6.chunk.js",
     "static/css/main.a3c46f46.chunk.css",
-    "static/js/main.0ab55458.chunk.js"
+    "static/js/main.cefdeb74.chunk.js"
   ]
 }
