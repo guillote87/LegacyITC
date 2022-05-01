@@ -8,7 +8,9 @@ import {
         ServicesContainer, 
         ServicesH1, 
         ServicesIcon, 
-        ServicesWrapper 
+        ServicesWrapper,
+        ServicesP,
+        ServicesH2
       } from './ServicesElements'
 
 const Services = () => {
@@ -20,25 +22,25 @@ const Services = () => {
       <ServicesWrapper>
       <ServicesCard>
           <ServicesIcon src={Icon1}/>
-          <servicesH2><strong>Plataformas</strong></servicesH2>
-          <servicesP>SAP R/3 </servicesP>
-          <servicesP>SAP S/4 HANA </servicesP>
-          <servicesP>SAP FIORI </servicesP>
+          <ServicesH2><strong>Plataformas</strong></ServicesH2>
+          <ServicesP>SAP R/3 </ServicesP>
+          <ServicesP>SAP S/4 HANA </ServicesP>
+          <ServicesP>SAP FIORI </ServicesP>
         </ServicesCard>
 
         <ServicesCard>
           <ServicesIcon src={Icon2}/>
-          <servicesH2><strong>Tecnologias</strong></servicesH2>
-          <servicesP>ABAP</servicesP>
-          <servicesP>SAPUI5</servicesP>
-          <servicesP>BASIS</servicesP>
+          <ServicesH2><strong>Tecnologias</strong></ServicesH2>
+          <ServicesP>ABAP</ServicesP>
+          <ServicesP>SAPUI5</ServicesP>
+          <ServicesP>BASIS</ServicesP>
         </ServicesCard>
 
         <ServicesCard>
           <ServicesIcon src={Icon3}/>
-          <servicesH2><strong>Proyectos SAP</strong></servicesH2>
-          <servicesP>Aseguramos el exito de su proyecto reduciendo riesgos y costos
-          </servicesP>
+          <ServicesH2><strong>Proyectos SAP</strong></ServicesH2>
+          <ServicesP>Aseguramos el exito de su proyecto reduciendo riesgos y costos
+          </ServicesP>
         </ServicesCard>
 
       </ServicesWrapper>

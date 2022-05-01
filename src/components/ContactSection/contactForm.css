@@ -3,7 +3,7 @@
 
 .contenedor {
 	color: #007db8;
-	background-color: #fff;
+	background-color: #010606;
 	width:100%;
 	margin-right: auto;
 	margin-left: auto;
@@ -37,7 +37,7 @@ h1{
 	display: block;
 	font-size: 16px;
 	margin-bottom: 5px;
-	color:#010606
+	color:#fff
 	
 }
 
@@ -83,7 +83,7 @@ button{
 	margin-top: 10px;
 	white-space: nowrap;
 	padding:14px 48px ;
-	color:#fff;
+	color:#010606;
 	font-size: 16px;
 	outline: none;
 	border: none;

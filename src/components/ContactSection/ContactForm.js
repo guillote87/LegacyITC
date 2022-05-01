@@ -4,19 +4,17 @@ import axios from "axios";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import * as Yup from "yup";
 
-
 const formSchema = Yup.object().shape({
   name: Yup.string()
-  .required("Required"),
+  .required("Por favor ingrese un nombre")
+  .matches(/^[A-Z]+$/i, "El nombre solo permite letras"),
   email: Yup.string()
-    .email("Invalid email")
-    .required("Required"),
-  message: Yup.string().required("Required")
+    .email("email Invalido")
+    .required("Por favor ingrese un mail valido"),
+  message: Yup.string().required("Ingrese aqui su consulta")
 });
 
-const ContactForm= ({primary,
-  dark,
-  dark2}) => {
+const ContactForm= () => {
   /* Server State Handling */
   const [serverState, setServerState] = useState();
   const handleServerResponse = (ok, msg) => {
@@ -25,7 +23,7 @@ const ContactForm= ({primary,
   const handleOnSubmit = (values, actions) => {
     axios({
       method: "POST",
-      url: "https://formspree.io/f/xrgjyndn",
+      url: `https://formspree.io/f/`+ process.env.REACT_APP_EMAIL_KEY   ,
       data: values
     })
       .then(response => {
