@@ -54,9 +54,7 @@ export const ClientsCard = styled.div`
 `
 
 export const ClientsIcon = styled.img`
-  
-margin-bottom: 10px;
-max-height: 100px;
+  max-height: 100px;
   max-width:100px;
   width: auto;
   height: auto;

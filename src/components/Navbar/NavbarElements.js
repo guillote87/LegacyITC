@@ -21,7 +21,9 @@ export const Nav = styled.nav`
 `
 export const Logo = styled.img`
 height :90px;
-
+`
+export const LogoSap = styled.img`
+height :30px;
 `
 
 export const NavbarContainer = styled.div`

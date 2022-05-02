@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo1 from '../../images/Clientes/Bumeran.png'
+import Logo1 from '../../images/Clientes/bumeran.svg'
 import Logo2 from '../../images/Clientes/SNP.jpg'
 import Logo3 from '../../images/Clientes/navent.jpg'
 import Logo4 from '../../images/Clientes/agrofy-logo.png'
@@ -18,7 +18,7 @@ const Clients = () => {
   return (
     <ClientsContainer id="clients">
 
-      <ClientsH1>Confian en nosotros</ClientsH1>
+      <ClientsH1>Confían en nosotros</ClientsH1>
 
       <ClientsWrapper>
       <ClientsCard>

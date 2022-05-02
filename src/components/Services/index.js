@@ -1,7 +1,7 @@
 import React from 'react'
-import Icon1 from '../../images/img4.svg'
-import Icon2 from '../../images/img6.svg'
-import Icon3 from '../../images/img5.svg'
+import Icon1 from '../../images/img8.svg'
+import Icon2 from '../../images/img9.svg'
+import Icon3 from '../../images/img10.svg'
 
 import { 
         ServicesCard, 
