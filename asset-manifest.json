@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.64f5ba5e.css",
-    "main.js": "/static/js/main.1fdc878d.js",
+    "main.js": "/static/js/main.b0e4aa7c.js",
     "static/media/video.mp4": "/static/media/video.8e6473cf1d4eb8673c48.mp4",
     "static/media/logoblanco.png": "/static/media/logoblanco.f397c937f5993898b3ad.png",
     "static/media/img3.svg": "/static/media/img3.42f374f03b9c08b41d8d6d4644515ea4.svg",
@@ -16,10 +16,10 @@
     "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
     "index.html": "/index.html",
     "main.64f5ba5e.css.map": "/static/css/main.64f5ba5e.css.map",
-    "main.1fdc878d.js.map": "/static/js/main.1fdc878d.js.map"
+    "main.b0e4aa7c.js.map": "/static/js/main.b0e4aa7c.js.map"
   },
   "entrypoints": [
     "static/css/main.64f5ba5e.css",
-    "static/js/main.1fdc878d.js"
+    "static/js/main.b0e4aa7c.js"
   ]
 }
