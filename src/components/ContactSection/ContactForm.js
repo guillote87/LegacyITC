@@ -7,7 +7,7 @@ import * as Yup from "yup";
 const formSchema = Yup.object().shape({
   name: Yup.string()
   .required("Por favor ingrese un nombre")
-  .matches(/^[A-Z]+$/i, "El nombre solo permite letras"),
+  .matches(/^[a-zA-Z '.-]*$/i, "El nombre solo permite letras"),
   email: Yup.string()
     .email("email Invalido")
     .required("Por favor ingrese un mail valido"),
