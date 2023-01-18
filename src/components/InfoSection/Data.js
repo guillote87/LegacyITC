@@ -18,8 +18,8 @@ export const homeObjOne = {
   primary: true,
   darkText: false,
 }
-export const homeObjTwo = {
-  id: 'remoto',
+export const  homeObjTwo = {
+  id: 'portfolioTwo',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
@@ -36,7 +36,7 @@ export const homeObjTwo = {
 }
 
 export const homeObjThree = {
-  id: 'staffing',
+  id: 'portfolioThree',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
