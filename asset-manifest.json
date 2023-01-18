@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.64f5ba5e.css",
-    "main.js": "/static/js/main.f4531f1a.js",
-    "static/media/video.mp4": "/static/media/video.8e6473cf1d4eb8673c48.mp4",
-    "static/media/dashboard.png": "/static/media/dashboard.861b201a1a2e13361211.png",
-    "static/media/constancia.png": "/static/media/constancia.ef47d377403b769d42a6.png",
-    "static/media/pedidos.png": "/static/media/pedidos.b1d92c80df3e635e2df8.png",
-    "static/media/logoblanco.png": "/static/media/logoblanco.f397c937f5993898b3ad.png",
-    "static/media/img3.svg": "/static/media/img3.42f374f03b9c08b41d8d6d4644515ea4.svg",
-    "static/media/img9.svg": "/static/media/img9.c3e8fb5e99e0f54f501dacd2dda9b885.svg",
-    "static/media/img1.svg": "/static/media/img1.612b837da13272cf85a6dd3c51a12057.svg",
-    "static/media/img8.svg": "/static/media/img8.0b1b55b0e696d31613edeb8653d5881c.svg",
-    "static/media/navent.jpg": "/static/media/navent.73f62548bade043193b4.jpg",
-    "static/media/demotores.jpg": "/static/media/demotores.87fe67feb3d5456b5245.jpg",
-    "static/media/img2.svg": "/static/media/img2.3a41858f78e6a5c1d6d48c5583da8182.svg",
-    "static/media/img10.svg": "/static/media/img10.15a0ac0a89f1bb62a65678f2338346db.svg",
-    "static/media/bumeran.svg": "/static/media/bumeran.62951b60c24e2bd2565aca1f77a4aa7b.svg",
-    "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
-    "index.html": "/index.html",
-    "main.64f5ba5e.css.map": "/static/css/main.64f5ba5e.css.map",
-    "main.f4531f1a.js.map": "/static/js/main.f4531f1a.js.map"
+    "main.css": "/LegacyITC/static/css/main.64f5ba5e.css",
+    "main.js": "/LegacyITC/static/js/main.266bead6.js",
+    "static/media/video.mp4": "/LegacyITC/static/media/video.8e6473cf1d4eb8673c48.mp4",
+    "static/media/dashboard.png": "/LegacyITC/static/media/dashboard.861b201a1a2e13361211.png",
+    "static/media/constancia.png": "/LegacyITC/static/media/constancia.ef47d377403b769d42a6.png",
+    "static/media/pedidos.png": "/LegacyITC/static/media/pedidos.b1d92c80df3e635e2df8.png",
+    "static/media/logoblanco.png": "/LegacyITC/static/media/logoblanco.f397c937f5993898b3ad.png",
+    "static/media/img3.svg": "/LegacyITC/static/media/img3.42f374f03b9c08b41d8d6d4644515ea4.svg",
+    "static/media/img9.svg": "/LegacyITC/static/media/img9.c3e8fb5e99e0f54f501dacd2dda9b885.svg",
+    "static/media/img1.svg": "/LegacyITC/static/media/img1.612b837da13272cf85a6dd3c51a12057.svg",
+    "static/media/img8.svg": "/LegacyITC/static/media/img8.0b1b55b0e696d31613edeb8653d5881c.svg",
+    "static/media/navent.jpg": "/LegacyITC/static/media/navent.73f62548bade043193b4.jpg",
+    "static/media/demotores.jpg": "/LegacyITC/static/media/demotores.87fe67feb3d5456b5245.jpg",
+    "static/media/img2.svg": "/LegacyITC/static/media/img2.3a41858f78e6a5c1d6d48c5583da8182.svg",
+    "static/media/img10.svg": "/LegacyITC/static/media/img10.15a0ac0a89f1bb62a65678f2338346db.svg",
+    "static/media/bumeran.svg": "/LegacyITC/static/media/bumeran.62951b60c24e2bd2565aca1f77a4aa7b.svg",
+    "static/media/sap-logo-svg.svg": "/LegacyITC/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
+    "index.html": "/LegacyITC/index.html",
+    "main.64f5ba5e.css.map": "/LegacyITC/static/css/main.64f5ba5e.css.map",
+    "main.266bead6.js.map": "/LegacyITC/static/js/main.266bead6.js.map"
   },
   "entrypoints": [
     "static/css/main.64f5ba5e.css",
-    "static/js/main.f4531f1a.js"
+    "static/js/main.266bead6.js"
   ]
 }
