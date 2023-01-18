@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.64f5ba5e.css",
-    "main.js": "/static/js/main.d13a02d4.js",
+    "main.js": "/static/js/main.9d4de413.js",
     "static/media/video.mp4": "/static/media/video.8e6473cf1d4eb8673c48.mp4",
     "static/media/dashboard.png": "/static/media/dashboard.861b201a1a2e13361211.png",
     "static/media/constancia.png": "/static/media/constancia.ef47d377403b769d42a6.png",
@@ -19,10 +19,10 @@
     "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
     "index.html": "/index.html",
     "main.64f5ba5e.css.map": "/static/css/main.64f5ba5e.css.map",
-    "main.d13a02d4.js.map": "/static/js/main.d13a02d4.js.map"
+    "main.9d4de413.js.map": "/static/js/main.9d4de413.js.map"
   },
   "entrypoints": [
     "static/css/main.64f5ba5e.css",
-    "static/js/main.d13a02d4.js"
+    "static/js/main.9d4de413.js"
   ]
 }
